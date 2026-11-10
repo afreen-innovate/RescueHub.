@@ -242,5 +242,5 @@ Licensed under the **MIT License**. See the [LICENSE](LICENSE) file.
 
 **Afreen**
 - **GitHub:** [afreen-innovate](https://github.com/afreen-innovate)
-- **Email:** `<add email>`
+- **Email:** `<250201601003@crescent.education>`
 - **Project Repository:** [https://github.com/afreen-innovate/RescueHub](https://github.com/afreen-innovate/RescueHub)
