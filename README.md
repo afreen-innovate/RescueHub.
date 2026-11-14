@@ -12,7 +12,6 @@
 **🎥 Demo Video:** Coming soon
 
 **🔑 Admin Demo Access:** open `/admin` and enter the demo password `rescue2026` *(demo only; see the disclaimer below)*
----
 
 ## 📌 Problem Statement
 
