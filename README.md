@@ -8,10 +8,10 @@
 ![Leaflet](https://img.shields.io/badge/maps-Leaflet%20%2B%20OpenStreetMap-199900.svg)
 
 **🔗 Live Demo:** [https://emergency-response-p-n1wk.bolt.host](https://emergency-response-p-n1wk.bolt.host)
-**🎥 Demo Video:** Coming soon
-**🔑 Admin Demo Access:** open `/admin` and enter the demo password `rescue2026` *(demo only; see the disclaimer below)*
-> 🚨 **In immediate danger? Call 112 first.** RescueHub supports emergency coordination and does not replace emergency services.
 
+**🎥 Demo Video:** Coming soon
+
+**🔑 Admin Demo Access:** open `/admin` and enter the demo password `rescue2026` *(demo only; see the disclaimer below)*
 ---
 
 ## 📌 Problem Statement
