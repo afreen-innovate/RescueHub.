@@ -7,7 +7,7 @@
 ![Tailwind](https://img.shields.io/badge/style-Tailwind%20CSS-38BDF8.svg)
 ![Leaflet](https://img.shields.io/badge/maps-Leaflet%20%2B%20OpenStreetMap-199900.svg)
 
-**🔗 Live Demo:** `<https://emergency-response-p-n1wk.bolt.host/>`
+**🔗 Live Demo:** `<https://emergency-response-p-n1wk.bolt.host/>,
 **🎥 Demo Video:** `<add video link>`
 **🔑 Admin Demo Access:** open `/admin` and enter the demo password `rescue2026` *(demo only; see the disclaimer below)*
 
